@@ -35,8 +35,3 @@ Discord:Kuki0771
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## 🎀 Fun Facts
-
-- I’ve been coding since I was 12  
-- I love rhythm games (osu!, GD)  
-- I break my code more often than I fix it 😄
