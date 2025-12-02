@@ -3,9 +3,9 @@ Discord:Kuki0771
 
 ## 🌈 About Me
 
-✨ 16-year-old developer from Serbia, diving deep into the world of computer science  
+✨ 16-year-old developer from Serbia,  
 📚 Currently studying algorithms, data structures, React patterns, Rust basics, and networking  
-💡 Obsessed with building clean UIs, fixing bugs (and accidentally creating new ones)  
+💡 Obsessed with building clean UIs, fixing bugs 
 🔧 Passionate about automation, performance, and making cool tools for other devs
 
 🎯 **Main Goal:** Become a senior-level developer and contribute to open-source projects
