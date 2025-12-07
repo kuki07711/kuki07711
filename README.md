@@ -12,7 +12,6 @@ Discord:Kuki0771
 ## 🔧 What I'm Working On
 
 - Learning advanced React patterns (state machines, compound components)
-- Building a custom executor UI with Tauri
 - Practicing Rust + systems programming
 
 ## 🧠 Languages I Know
