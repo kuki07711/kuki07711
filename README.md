@@ -1,14 +1,8 @@
-Discord:Kuki0771 
-## IM FOR HIRER
 
 ## 🌈 About Me
-
-✨ 16-year-old developer from Serbia,  
+ 
 📚 Currently studying algorithms, data structures, React patterns, Rust basics, and networking  
-💡 Obsessed with building clean UIs, fixing bugs 
-🔧 Passionate about automation, performance, and making cool tools for other devs
 
-🎯 **Main Goal:** Become a senior-level developer and contribute to open-source projects
 ## 🔧 What I'm Working On
 
 - Learning advanced React patterns (state machines, compound components)
