@@ -12,15 +12,12 @@
 
 ## ✦ about me
 
-i'm **kuki** — a developer at Microsoft based in Novi Sad, Serbia. i spend most of my time writing code, ricing Linux setups, and going down rabbit holes i didn't plan on entering.
+i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 - 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog** — JS, C, Rust in progress
-- 🐧 linux enthusiast with a deep Arch background, currently daily driving **Debian 13 GNOME**
-- 🔒 privacy-first mindset — ProtonMail, ProtonVPN, 2FA on everything
-- 🎮 ~9,000 hrs CS2, Faceit Level 10 · also plays osu! on mobile
-- ✏️ editor of choice: **Zed** (switched from VS Code and never looked back)
-- 🎀 aesthetic: oversized hoodies + long socks + occasionally a maid dress. don't ask
-
+- 🐧 linux enthusiast currently daily driving **Debian 13 GNOME**
+- 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
+- ✏️ editor of choice: **Zed** and *
 ---
 
 ## 📫 reach me
@@ -28,7 +25,7 @@ i'm **kuki** — a developer at Microsoft based in Novi Sad, Serbia. i spend mos
 <div align="left">
 
 [![YouTube](https://img.shields.io/badge/YouTube-kuki__tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kuki_tech)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kuki@proton.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:uros.jovicic12@proton.me)
 [![Steam](https://img.shields.io/badge/Steam-Kuki0771-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kuki0771)
 
 </div>
