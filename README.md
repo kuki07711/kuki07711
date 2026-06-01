@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=hey,%20i'm%20kuki%20✦&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=developer%20%7C%20linux%20nerd%20%7C%20professional%20overthinker&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=C%2B%2B+%2F+C%23+%2F+Java+%2F;Haskell+and+Lisp+appreciator;at+heart%2C+Debian;obsessed;+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=C%2B%2B+%2F+C%23+%2F+Java+%2F;Haskell+and+Lisp+appreciator;at+heart%2C+Arch+Linux;obsessed;+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 - 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog** — JS, C, Rust in progress
-- 🐧 linux enthusiast currently daily driving **Debian 13 GNOME**
+- 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**
 - 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
 - ✏️ editor of choice: **Zed** and *
 ---
@@ -63,8 +63,8 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 <div align="left">
 
-[![Linux](https://img.shields.io/badge/Linux-Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#)
-[![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+[![Hyprland](https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white)](#)
 [![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Tailscale](https://img.shields.io/badge/Tailscale-0a0a0a?style=for-the-badge&logo=tailscale&logoColor=white)](#)
@@ -92,5 +92,3 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-
-
