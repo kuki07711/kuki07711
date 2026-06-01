@@ -1,7 +1,47 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=hey,%20i'm%20kuki%20✦&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=developer%20%7C%20linux%20nerd%20%7C%20professional%20overthinker&descAlignY=58&descSize=16" width="100%"/>
+<!-- ==================== HEADER COMPONENT (image_eefea1.png DESIGN) ==================== -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://raw.githubusercontent.com/ilyamiro/ilyamiro/main/.github/assets/readme-aura-component-0-37a1b151.svg" width="100%" alt="Header Banner" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== SOCIALS & CONTACT GRID ==================== -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent; text-align: center;">
+  <tr>
+    <!-- EMAIL -->
+    <td width="25%" style="border: none; padding: 0;">
+      <a href="mailto:uros.jovicic12@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-uros.jovicic12%40gmail.com-101014?style=for-the-badge&logo=gmail&logoColor=82C43C&labelColor=101014" width="100%" alt="Email"/>
+      </a>
+    </td>
+    <!-- STEAM -->
+    <td width="25%" style="border: none; padding: 0;">
+      <a href="https://steamcommunity.com/id/Kuki0771">
+        <img src="https://img.shields.io/badge/STEAM-%40kuki0771-101014?style=for-the-badge&logo=steam&logoColor=5B9BD5&labelColor=101014" width="100%" alt="Steam"/>
+      </a>
+    </td>
+    <!-- DISCORD -->
+    <td width="25%" style="border: none; padding: 0;">
+      <a href="#">
+        <img src="https://img.shields.io/badge/DISCORD-kuki071-101014?style=for-the-badge&logo=discord&logoColor=B388FF&labelColor=101014" width="100%" alt="Discord"/>
+      </a>
+    </td>
+    <!-- YOUTUBE -->
+    <td width="25%" style="border: none; padding: 0;">
+      <a href="https://youtube.com/@kuki_tech">
+        <img src="https://img.shields.io/badge/YOUTUBE-%40kuki__tech-101014?style=for-the-badge&logo=youtube&logoColor=FF6B8B&labelColor=101014" width="100%" alt="YouTube"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=C%2B%2B+%2F+C%23+%2F+Java+%2F;Haskell+and+Lisp+appreciator;at+heart%2C+Arch+Linux;obsessed;+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG"/>
@@ -14,21 +54,10 @@
 
 i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
-- 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog** — JS, C, Rust in progress
+- 🧠 fluent in languages listed below
 - 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**
 - 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
-- ✏️ editor of choice: **Zed** and *
----
-
-## 📫 reach me
-
-<div align="left">
-
-[![YouTube](https://img.shields.io/badge/YouTube-kuki__tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kuki_tech)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:uros.jovicic12@proton.me)
-[![Steam](https://img.shields.io/badge/Steam-Kuki0771-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kuki0771)
-
-</div>
+- ✏️ editor of choice: **Zed** and **VScode**
 
 ---
 
@@ -36,24 +65,31 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 <div align="left">
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
+<!-- Red / Warm Stacks -->
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#)
+[![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#)
+
+<!-- Orange / Yellow Stacks -->
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+<!-- Green Stacks -->
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
+
+<!-- Blue / Cyan Stacks -->
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+
+<!-- Purple / Indigo / Dark Stacks -->
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](#)
 [![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)](#)
-[![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)](#)
-
-</div>
-
-## 📚 currently learning
-
-<div align="left">
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
 
 </div>
 
@@ -72,20 +108,6 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
 [![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
 [![Ente Auth](https://img.shields.io/badge/Ente_Auth-7B3FF2?style=for-the-badge&logo=ente&logoColor=white)](#)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](#)
-[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)](#)
-</div>
-
----
-
-## 📊 stats
-
-<div align="center">
-
-[![kuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuki07711&show_icons=true&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&icon_color=A855F7&text_color=e2e2e2)](https://github.com/kuki07711)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuki07711&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&text_color=e2e2e2)](https://github.com/kuki07711)
 
 </div>
 
