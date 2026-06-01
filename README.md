@@ -1,50 +1,34 @@
 <div align="center">
 
-<!-- ==================== CUSTOMIZED HEADER COMPONENT ==================== -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #222; background-color: #0d0e15; border-radius: 16px; padding: 24px; text-align: center;">
-  <tr>
-    <td style="padding: 30px 10px 10px 10px; border: none;">
-      <!-- Avatar Placeholder matching his design layout -->
-      <img src="https://github.com/kuki07711.png" width="110" style="border-radius: 50%; border: 3px solid #C084FC;" alt="kuki07711"/>
-      <h1 style="color: #ffffff; margin: 10px 0 2px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 600;">kuki</h1>
-      <p style="color: #798299; margin: 0 0 20px 0; font-family: monospace; font-size: 14px; letter-spacing: 2px;">ARCH ENJOYER • OPEN SOURCE</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 0 10px 30px 10px; border: none;">
-      <!-- Main Category Tags -->
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> &nbsp;
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> &nbsp;
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> &nbsp;
-      <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-  </tr>
-</table>
+<!-- ==================== CUSTOMIZED HEADER CARD ==================== -->
+
+<img src="https://github.com/kuki07711.png" width="110" style="border-radius: 50%;" alt="kuki"/>
+
+# kuki
+`ARCH ENJOYER • OPEN SOURCE`
+
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](#) &nbsp; [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) &nbsp; [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) &nbsp; [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
 
 <br />
 
-<!-- ==================== BALANCED SOCIAL CARDS (ilyamiro Style Layout) ==================== -->
+<!-- ==================== SOCIAL CARDS GRID ==================== -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent; text-align: center;">
   <tr>
-    <!-- EMAIL -->
     <td width="25%" style="border: none; padding: 4px;">
       <a href="mailto:uros.jovicic12@gmail.com">
         <img src="https://img.shields.io/badge/%20-EMAIL%20%0A%20uros.jovicic12%40gmail.com-111216?style=for-the-badge&logo=gmail&logoColor=82C43C&labelColor=111216" width="100%" alt="Email"/>
       </a>
     </td>
-    <!-- STEAM -->
     <td width="25%" style="border: none; padding: 4px;">
       <a href="https://steamcommunity.com/id/Kuki0771">
         <img src="https://img.shields.io/badge/%20-STEAM%20%0A%20%40kuki0771-111216?style=for-the-badge&logo=steam&logoColor=5B9BD5&labelColor=111216" width="100%" alt="Steam"/>
       </a>
     </td>
-    <!-- DISCORD -->
     <td width="25%" style="border: none; padding: 4px;">
       <a href="#">
         <img src="https://img.shields.io/badge/%20-DISCORD%20%0A%20kuki071-111216?style=for-the-badge&logo=discord&logoColor=B388FF&labelColor=111216" width="100%" alt="Discord"/>
       </a>
     </td>
-    <!-- YOUTUBE -->
     <td width="25%" style="border: none; padding: 4px;">
       <a href="https://youtube.com/@kuki_tech">
         <img src="https://img.shields.io/badge/%20-YOUTUBE%20%0A%20%40kuki__tech-111216?style=for-the-badge&logo=youtube&logoColor=FF6B8B&labelColor=111216" width="100%" alt="YouTube"/>
@@ -64,12 +48,12 @@
 
 ## ✦ about me
 
-i'm **kuki** — a developer i rarely use github but i do sure have my projects[cite: 1]
+i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
-- 🧠 fluent in languages listed below[cite: 1]
-- 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**[cite: 1]
-- 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything[cite: 1]
-- ✏️ editor of choice: **Zed** and *[cite: 1]
+- 🧠 fluent in languages listed below
+- 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**
+- 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
+- ✏️ editor of choice: **Zed** and *
 
 ---
 
@@ -120,9 +104,6 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects[
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
 [![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
 [![Ente Auth](https://img.shields.io/badge/Ente_Auth-7B3FF2?style=for-the-badge&logo=ente&logoColor=white)](#)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](#)
-[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
 </div>
 
