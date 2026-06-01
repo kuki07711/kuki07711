@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- ==================== CUSTOMIZED HEADER CARD ==================== -->
+<!-- ==================== MAIN HEADER HERO CARD ==================== -->
 
-<img src="https://github.com/kuki07711.png" width="110" style="border-radius: 50%;" alt="kuki"/>
+<img src="https://github.com/kuki07711.png" width="124" style="border-radius: 50%;" alt="kuki"/>
 
 # kuki
 `ARCH ENJOYER • OPEN SOURCE`
 
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](#) &nbsp; [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) &nbsp; [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#) &nbsp; [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+[![C](https://img.shields.io/badge/C-111219?style=for-the-badge&logo=c&logoColor=5B9BD5)](#) &nbsp; [![C#](https://img.shields.io/badge/C%23-111219?style=for-the-badge&logo=csharp&logoColor=82C43C)](#) &nbsp; [![C++](https://img.shields.io/badge/C%2B%2B-111219?style=for-the-badge&logo=cplusplus&logoColor=5B9BD5)](#) &nbsp; [![Linux](https://img.shields.io/badge/LINUX-111219?style=for-the-badge&logo=linux&logoColor=B388FF)](#)
 
-<br />
+<br /><br />
 
-<!-- ==================== SOCIAL CARDS GRID ==================== -->
+<!-- ==================== SOCIAL LINKS ROW ==================== -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent; text-align: center;">
   <tr>
     <td width="25%" style="border: none; padding: 4px;">
@@ -39,7 +39,7 @@
 
 <br />
 
-<!-- Typing animation -->
+<!-- Dynamic Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=C%2B%2B+%2F+C%23+%2F+Java+%2F;Haskell+and+Lisp+appreciator;at+heart%2C+Arch+Linux;obsessed;+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG"/>
 
 </div>
@@ -61,31 +61,7 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 <div align="left">
 
-<!-- Red / Warm Stacks -->
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#)
-[![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)](#)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#)
-
-<!-- Orange / Yellow Stacks -->
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-
-<!-- Green Stacks -->
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
-
-<!-- Blue / Cyan Stacks -->
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-
-<!-- Purple / Indigo / Dark Stacks -->
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](#)
-[![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#) [![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)](#) [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#) [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](#) [![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)](#)
 
 </div>
 
