@@ -72,7 +72,9 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
 [![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
 [![Ente Auth](https://img.shields.io/badge/Ente_Auth-7B3FF2?style=for-the-badge&logo=ente&logoColor=white)](#)
-
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](#)
+[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 </div>
 
 ---
