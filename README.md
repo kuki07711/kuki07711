@@ -14,10 +14,12 @@
 
 i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
-- 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog** — JS, C, Rust in progress
+- 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog**
+- 📚 currently learning **C, JavaScript, Rust**
 - 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**
 - 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
-- ✏️ editor of choice: **Zed** and *
+- ✏️ editor of choice: **Zed**
+
 ---
 
 ## 📫 reach me
@@ -36,14 +38,15 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 <div align="left">
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 </div>
 
@@ -53,7 +56,6 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
 
 </div>
 
@@ -64,14 +66,14 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 <div align="left">
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
-[![Hyprland](https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white)](#)
-[![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Tuta Mail](https://img.shields.io/badge/Tuta_Mail-FF0043?style=for-the-badge&logo=tuta&logoColor=white)](#)
-[![Tailscale](https://img.shields.io/badge/Tailscale-0a0a0a?style=for-the-badge&logo=tailscale&logoColor=white)](#)
-[![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
-[![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
 [![Ente Auth](https://img.shields.io/badge/Ente_Auth-7B3FF2?style=for-the-badge&logo=ente&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Hyprland](https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white)](#)
+[![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
+[![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
+[![Tailscale](https://img.shields.io/badge/Tailscale-0a0a0a?style=for-the-badge&logo=tailscale&logoColor=white)](#)
+[![Tuta Mail](https://img.shields.io/badge/Tuta_Mail-FF0043?style=for-the-badge&logo=tuta&logoColor=white)](#)
+[![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white)](#)
 
 </div>
 
