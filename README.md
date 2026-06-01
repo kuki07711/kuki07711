@@ -14,8 +14,7 @@
 
 i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
-- 🧠 fluent in **C++, C#, Java, Python, Lua, Haskell, Lisp, Prolog**
-- 📚 currently learning **C, JavaScript, Rust**
+- 🧠 fluent in **C, C#, C++, Haskell, HTML5, Java, JavaScript, Kotlin, Lisp, Lua, PHP, Prolog, Python, Ruby, Swift, TypeScript**
 - 🐧 linux enthusiast currently daily driving **Arch Linux + Hyprland**
 - 🔒 privacy-first  — ProtonMail, ProtonVPN, 2FA on everything
 - ✏️ editor of choice: **Zed**
@@ -42,20 +41,18 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
-[![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-
-</div>
-
-## 📚 currently learning
-
-<div align="left">
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 </div>
 
