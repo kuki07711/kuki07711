@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- PASTED COMPONENT FROM ILYAMIRO'S SOURCE CODE -->
-<!-- Paste his exact top header/banner SVG or card component code block here, and just update the name to kuki, subtitle to ARCH ENJOYER • OPEN SOURCE, and your tags/social links! -->
+<!-- Banner & Persona Cards -->
+<p align="center">
+  <a href="https://github.com/ilyamiro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilyamiro&repo=ilyamiro&theme=tokyonight&show_owner=true" alt="kuki profile" />
+  </a>
+</p>
 
 <br />
 
