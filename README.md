@@ -67,8 +67,11 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 [![Hyprland](https://img.shields.io/badge/Hyprland-33CCEE?style=for-the-badge&logo=hyprland&logoColor=white)](#)
 [![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Tuta Mail](https://img.shields.io/badge/Tuta_Mail-FF0043?style=for-the-badge&logo=tuta&logoColor=white)](#)
 [![Tailscale](https://img.shields.io/badge/Tailscale-0a0a0a?style=for-the-badge&logo=tailscale&logoColor=white)](#)
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white)](#)
+[![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=protonpass&logoColor=white)](#)
+[![Ente Auth](https://img.shields.io/badge/Ente_Auth-7B3FF2?style=for-the-badge&logo=ente&logoColor=white)](#)
 
 </div>
 
