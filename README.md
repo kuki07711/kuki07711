@@ -65,9 +65,9 @@ i'm **kuki** — a developer i rarely use github but i do sure have my projects
 
 <div align="center">
 
-[![kuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuki07711&show_icons=true&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&icon_color=A855F7&text_color=e2e2e2)](https://github.com/kuki07711)
+[![kuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuki07711&show_icons=true&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&icon_color=A855F7&text_color=e2e2e2)](https://github.com/dev-kuki)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuki07711&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&text_color=e2e2e2)](https://github.com/kuki07711)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuki07711&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=C084FC&text_color=e2e2e2)](https://github.com/dev-kuki)
 
 </div>
 
